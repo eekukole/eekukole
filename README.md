@@ -4,6 +4,8 @@
 
 I'm passionate about transforming raw data into actionable insights through scalable data pipelines.
 
+---
+
 ### 🔭 Current Project
 Building an **end-to-end e-commerce analytics pipeline** - from event generation to cloud-deployed data warehouse.
 
@@ -20,6 +22,8 @@ Building an **end-to-end e-commerce analytics pipeline** - from event generation
 - Docker, Git
 - AWS (learning)
 
+---
+
 ### 📊 Featured Projects
 
 #### [E-Commerce Data Pipeline](https://github.com/eekukole/ecommerce-data-pipeline)
@@ -34,7 +38,21 @@ End-to-end ETL pipeline with star schema warehouse
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eekukole&show_icons=true&theme=radical)
+
+<!-- PRO TIP 1: GitHub Stats (you already added) -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eekukole&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- PRO TIP 2: Most Used Languages - ADD THIS -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eekukole&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<!-- PRO TIP 3: Add a GIF/Banner - ADD THIS SECTION -->
+### 💻 What I'm Building
+
+![Data Engineering](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
 
 ### 🌱 Currently Learning
 - Apache Airflow orchestration
@@ -44,10 +62,15 @@ End-to-end ETL pipeline with star schema warehouse
 ### 💼 Open To
 Data Engineering opportunities where I can build scalable data solutions
 
+---
+
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ekukole88)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelekukole@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.emmanuelekukole@gmail.com)
 
 ---
+
+<!-- PRO TIP 4: Visitor Counter - ADD AT THE VERY BOTTOM -->
+![Profile Views](https://komarev.com/ghpvc/?username=eekukole&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ⭐️ From [eekukole](https://github.com/eekukole)
